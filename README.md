@@ -1,5 +1,5 @@
-## Hi there 👋
-# 👋 Hi, I'm Nidhun Raj  
+
+  # 👋 Hi, I'm Nidhun Raj  
 
 💻 Cybersecurity enthusiast from Kerala, India  
 🎓 Currently pursuing studies in Cyber Security  
